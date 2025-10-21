@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { FiChevronDown } from "react-icons/fi";
-import backgroundMarbled from "../assets/images/background-marbled.jpg";
+import backgroundMarbled from "../assets/images/background-marbled.webp";
 import premium from "../assets/images/premium.png";
-import rosewinePreview from "../assets/images/rosewine-preview.webp";
+import rosewinePreview from "../assets/images/rosewine-preview.png";
 
 export function Features() {
   return (
